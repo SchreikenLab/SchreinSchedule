@@ -1,8 +1,8 @@
-# SchreinTimer - Le cerveau de votre automatisation
+# SchreinSchedule - Le cerveau de votre automatisation
 
 **Minuteur intelligent tout-en-un pour applications .NET Windows Forms**
 
-SchreinTimer - Minuteur intelligent .NET pour l'automatisation d'applications. Planification multi-tâches avancée avec déclencheurs conditionnels, commandes configurables et stratégies d'exécution flexibles. Parfait pour l'automatisation métier et le contrôle de processus.  #dotnet #automation #timer #scheduler #winforms
+SchreinSchedule - Minuteur intelligent .NET pour l'automatisation d'applications. Planification multi-tâches avancée avec déclencheurs conditionnels, commandes configurables et stratégies d'exécution flexibles. Parfait pour l'automatisation métier et le contrôle de processus.  #dotnet #automation #timer #scheduler #winforms
 
 ## 🌟 Fonctionnalités Principales
 
@@ -31,10 +31,10 @@ SchreinTimer - Minuteur intelligent .NET pour l'automatisation d'applications. P
 - **Domotique** : Gestion d'éclairage, contrôle climatique
 - **Monitoring** : Vérifications périodiques, alertes conditionnelles
 
-# Documentation SchreinTimer
+# Documentation SchreinSchedule
 
 ## Vue d'ensemble
-SchreinTimer est un composant .NET Windows Forms qui transforme n'importe quelle application en système automatisé professionnel. Il combine la puissance d'un planificateur de tâches avancé avec la flexibilité d'un moteur de règles conditionnelles.
+SchreinSchedule est un composant .NET Windows Forms qui transforme n'importe quelle application en système automatisé professionnel. Il combine la puissance d'un planificateur de tâches avancé avec la flexibilité d'un moteur de règles conditionnelles.
 
 ## Architecture du Composant
 
@@ -133,7 +133,7 @@ Business Automation, Process Control
 ### 📝 Résumé pour Toolbox
 
 ```text
-SchreinTimer - Minuteur Automatisation
+SchreinSchedule - Minuteur Automatisation
 • Planification multi-tâches avancée
 • Commandes conditionnelles intelligentes  
 • Interface de configuration intégrée
